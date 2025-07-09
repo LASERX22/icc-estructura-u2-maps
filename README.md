@@ -153,3 +153,6 @@ Para administrar un directorio telefónico sin claves duplicadas y ordenado por 
 
 ![alt text](image.png)
 
+Salida (09/07/2025)
+![alt text](image-1.png)
+
